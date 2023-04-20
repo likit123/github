@@ -3,7 +3,7 @@
 $ git init
 $ git config --global --list
 $ git config --global user.name "xxxx"
-$ git config --global user.email "yyyyt@gmail.com"
+$ git config --global user.email "yyyy@gmail.com"
 $ git config --global core.autocrlf false
 
 
