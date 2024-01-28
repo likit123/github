@@ -26,11 +26,15 @@ $ git checkout อักษร commit 6หลัก
 REMOTE to Github.com
 $ git remote -v
 $ git remote add origin https://github.com/likit123/xxxx.git
-$ git push -u origin (main/master)
 
+
+PUSH
+$ git push origin master
 
 PULL
-$ git pull
+$ git pull origin master
+
+
 
 
 BRANCE
