@@ -31,14 +31,14 @@ $ git checkout commit6หลัก ชื่อไฟล์   (ไฟล์อ�
 
 REMOTE to Github.com
 $ git remote -v
-$ git remote add origin https://github.com/likit123/xxxx.git
+$ git remote add orgin https://github.com/likit123/xxxx.git
 
 
 PUSH
-$ git push origin master
+$ git push orgin master
 
 PULL
-$ git pull origin master
+$ git pull orgin master
 
 
 
