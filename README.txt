@@ -19,8 +19,14 @@ $ git add .                   (in stage)    <-- git restore --staged .
 $ git commit -m "xxx"         (in commit)   <-- git reset อักษร commit 6หลัก
 
 
+ก่อน commit กลับไปล่าสุด
+$ get restore ชื่อไฟล์
+
+
 กลับไป ณ จุดที่ commit
-$ git checkout อักษร commit 6หลัก
+$ git reset commit6หลัก --hard
+$ git reset commit6หลัก --soft
+$ git checkout commit6หลัก ชื่อไฟล์   (ไฟล์อื่นๆ จะไม่ย้อนกลับ)
 
 
 REMOTE to Github.com
