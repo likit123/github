@@ -53,3 +53,4 @@ $ git merge branch_name (ใช้รวมไฟล์จาก branch ที�
 $ git branch -d branch_name (ลบ branch ที่ระบุ)
 
 
+END
